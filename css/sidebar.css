@@ -1,0 +1,105 @@
+.leftSection {
+
+    position: relative;
+    min-width: 80px;
+    
+
+}
+
+.sidebar { 
+
+    position: absolute;
+    top: 0px;
+    right: 10px;
+    bottom: 0px;
+    width: 200px;
+    font-size: 22px;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: top;
+    align-items: left;
+
+}
+
+.sidebarIcon{
+
+    padding: 7px 5px;
+    margin-bottom: 20px;
+    border-radius: 30px;
+    background-color: rgb(255, 255, 255);
+    transition: background-color 0.5s;
+    display: flex;
+
+
+    align-items: center;
+}
+
+
+.sidebarIcon:hover {
+
+    background-color: rgb(231, 224, 224);
+    cursor: pointer;
+}
+
+.sidebar img{
+
+    height: 26px;
+    width: 30px;
+    margin-right: 10px;
+}
+
+.sidebarPost {
+
+    background-color: black;
+    color: white;
+    height: 40px;
+    font-size: 14px;
+    font-weight: 700;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 30px;
+    width: 200px;
+
+}
+
+
+.myAccount {
+
+    display: flex;
+    width: 90px;
+    margin-right: 10px;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    top: 1195px;
+    width: 200px;
+    border-radius: 50px;
+    height: 60px;
+
+}
+
+.myAccount:hover {
+    background-color: rgb(231, 224, 224);
+    cursor: pointer;
+}
+
+.leftMore {
+    position: relative;
+
+}
+
+.myAccount .moreH {
+
+    position: absolute;
+    height: 18px;
+    right: 3px;
+    top: -8px;
+    padding: 0px;
+}
+
+.myAccount .followPfp{
+    height: 45px;
+    width: 45px;
+    margin-left: 10px;
+}
