@@ -21,7 +21,7 @@
 <img width="798" height="567" alt="Image" src="https://github.com/user-attachments/assets/3ea88baf-0881-4d88-bfa3-0d88ffb5a0cb" />
 
  - Dynamic elements such as the search bar highlighting blue while typing, and areas darkening when hovered over:
-   
-<img width="359" height="395" alt="Image" src="https://github.com/user-attachments/assets/b1d258f4-2577-434b-95bb-948be618297e" />
 
 <img width="975" height="532" alt="Image" src="https://github.com/user-attachments/assets/c8ea2587-45ff-4ee8-ad3e-e0f2bb2fefdc" />
+
+<img width="359" height="395" alt="Image" src="https://github.com/user-attachments/assets/b1d258f4-2577-434b-95bb-948be618297e" />
